@@ -1,5 +1,6 @@
 # 🐟 Hello there!
 
+## 🌊 Justa smol fish trying to live in this big pond called life
 <!--
 **TheBettaTester/TheBettaTester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
