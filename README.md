@@ -10,7 +10,9 @@ Motion Designer, currently SCHOOLing in System Development
 
 ✨ My love for video games also contributed to my interest in programming, technology truly is FINtastic!
 
-🎣 So I took the opporTUNAty to create my oFISHial GitHub page, and I'm really enjoying it so far, no TROUT about it! 
+🎣 So I took the opporTUNAty to create my oFISHial GitHub page, and I'm really enjoying it so far, no TROUT about it!
+
+💻 Mainly interested in SCHOOLing in Python, Java, HTML, CSS, and C++
 
 🐳 Many TANKS for stopping by
 
