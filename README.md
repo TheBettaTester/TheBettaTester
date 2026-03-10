@@ -6,9 +6,13 @@
 
 Motion Designer, currently SCHOOLing in System Development
 
-I'd interest into CODing since my childhood, when I was introduced to HTML in the guide provided by the KOIllest fish in the sea, [Neopets](https://neopets.com/help/html1.phtml), since then I was HOOKED
+💻 I've been interested in CODing since my childhood, when I was introduced to HTML in the guide provided by the KOIllest fish in the sea, [Neopets](https://neopets.com/help/html1.phtml). Since then, I've been HOOKED!
 
-Many TANKS for stopping by
+✨ My love for video games also contributed to my interest in programming, technology truly is FINtastic!
+
+🎣 So I took the opporTUNAty to create my oFISHial GitHub page, and I'm really enjoying it so far, no TROUT about it! 
+
+🐳 Many TANKS for stopping by
 
 <!--
 **TheBettaTester/TheBettaTester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
