@@ -1,6 +1,15 @@
 # 🐟 Hello there!
 
 ## 🌊 Justa smol fish trying to live in this big pond called life
+
+---
+
+Motion Designer, currently SCHOOLing in System Development
+
+I'd interest into CODing since my childhood, when I was introduced to HTML in the guide provided by the KOIllest fish in the sea, [Neopets](https://neopets.com/help/html1.phtml), since then I was HOOKED
+
+Many TANKS for stopping by
+
 <!--
 **TheBettaTester/TheBettaTester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
