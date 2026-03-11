@@ -34,7 +34,7 @@ Atualmente, estou explorando projetos no GitHub e aprimorando minhas habilidades
 
 ---
 
-Obrigado por visitar meu perfil! 😄
+Obrigado por visitar meu perfil! 🐟
 
 ---
 
@@ -75,7 +75,7 @@ Currently, I'm exploring projects on GitHub and improving my skills in programmi
 
 ---
 
-Thanks for visiting my profile! 😄
+Thanks for visiting my profile! 🐟
 
 <!--
 **TheBettaTester/TheBettaTester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
