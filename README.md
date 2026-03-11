@@ -29,7 +29,7 @@ Atualmente, estou explorando projetos no GitHub e aprimorando minhas habilidades
 </a>
 &nbsp;&nbsp;
 <a href="mailto:seu-email@email.com">
-<img src="https://cdn.simpleicons.org/minutemailer" height="28"/>
+<img src="https://www.svgrepo.com/show/349354/email.svg" height="28"/>
 </a>
 </p>
 
@@ -71,7 +71,7 @@ Currently, I'm exploring projects on GitHub and improving my skills in programmi
 </a>
 &nbsp;&nbsp;
 <a href="mailto:seu-email@email.com">
-<img src="https://cdn.simpleicons.org/minutemailer" height="28"/>
+<img src="https://www.svgrepo.com/show/349354/email.svg" height="28"/>
 </a>
 </p>
 
