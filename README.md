@@ -27,7 +27,7 @@ Atualmente, estou explorando projetos no GitHub e aprimorando minhas habilidades
 <a href="https://www.linkedin.com/in/seu-perfil">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28"/>
 </a>
-<a href="mailto:seu-email@email.com">
+<a href="mailto:nandamation@proton.me">
 <img src="https://www.svgrepo.com/show/349354/email.svg" height="28"/>
 </a>
 </p>
@@ -68,7 +68,7 @@ Currently, I'm exploring projects on GitHub and improving my skills in programmi
 <a href="https://www.linkedin.com/in/seu-perfil">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28"/>
 </a>
-<a href="mailto:seu-email@email.com">
+<a href="mailto:nandamation@proton.me">
 <img src="https://www.svgrepo.com/show/349354/email.svg" height="28"/>
 </a>
 </p>
